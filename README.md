@@ -86,7 +86,7 @@ Experience the application live at: [https://audio-retrival.vercel.app/](https:/
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Ahmed-AbdullahCreates">
+        <a href="https://github.com/ahmad-abdulla">
           <img src="https://github.com/Ahmed-AbdullahCreates.png" width="100" height="100" style="border-radius:50%;" alt="Ahmed Abdullah" /><br />
           <sub><b>Ahmed Abdullah</b></sub>
         </a>
